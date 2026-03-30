@@ -33,13 +33,14 @@ Spring Boot, Spring WebSocket, STOMP, Thymeleaf, JavaScript (ES6), SockJS, STOMP
 .Responsive UI using Bootstrap
 
 .Server-side rendering with Thymeleaf
-```
-▶️ How to Run
-./mvnw spring-boot:run
-```
-```
-Open in browser:
 
+▶️ How to Run
+```
+./mvnw spring-boot:run
+````
+
+Open in browser:
+```
 http://localhost:8080
 ```
 📄 License
