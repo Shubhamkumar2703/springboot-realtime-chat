@@ -43,6 +43,6 @@ Open in browser:
 ```
 http://localhost:8080
 ```
-📄 License
+📄 License 
 
 This project is for learning and demonstration purposes.
