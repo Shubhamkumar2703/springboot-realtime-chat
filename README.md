@@ -2,7 +2,7 @@
 
 A real-time chat application built using Spring Boot WebSocket and the STOMP protocol for instant and reliable messaging.
 
-📌 About the Project
+📌 About the Project 
 
 This project enables real-time communication between users using WebSockets with STOMP messaging and SockJS fallback for better browser compatibility.
 
