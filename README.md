@@ -34,7 +34,7 @@ Spring Boot, Spring WebSocket, STOMP, Thymeleaf, JavaScript (ES6), SockJS, STOMP
 
 .Server-side rendering with Thymeleaf
 
-▶️ How to Run
+▶️ How to Run 
 ```
 ./mvnw spring-boot:run
 ```` 
