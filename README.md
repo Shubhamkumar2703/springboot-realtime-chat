@@ -10,7 +10,7 @@ This project enables real-time communication between users using WebSockets with
 
 Spring Boot, Spring WebSocket, STOMP, Thymeleaf, JavaScript (ES6), SockJS, STOMP.js, HTML, CSS, Bootstrap, Maven
 ```
-📂 Project Structure
+📂 Project Structure 
 ├── src/                     # Application source code
 │   ├── controller/          # WebSocket controllers
 │   ├── config/              # WebSocket & STOMP configuration
