@@ -23,5 +23,5 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
         registry.enableSimpleBroker("/topic");
         // expect message with  /app/sendmessage
         registry.setApplicationDestinationPrefixes("/app");
-    }
+    } 
 }
